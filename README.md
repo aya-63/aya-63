@@ -46,7 +46,7 @@
 
 ## 🏆 Achievements
 <p align="center">
-![GitHub Streak](https://streak-stats.demolab.com?user=aya-6&theme=radical&hide_border=true)
+<img src="https://streak-stats.demolab.com?user=aya-63&theme=radical&hide_border=true"/>
 </p>
 
 ## 🔗 Connect with Me
