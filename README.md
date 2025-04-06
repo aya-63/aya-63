@@ -46,11 +46,10 @@
 
 ## 🏆 Achievements
 
-![aya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aya-63&show_icons=true&include_all_commits=true&count_private=true&theme=radical)
+<p align="center">
+  ![GitHub Streak](https://streak-stats.demolab.com?user=aya-63&theme=radical&hide_border=true)
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aya-63&layout=compact&langs_count=8&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=aya-63&theme=radical&hide_border=true)
 
 
 ## 🔗 Connect with Me
