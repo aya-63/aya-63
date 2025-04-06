@@ -1,35 +1,45 @@
-<h1 align="center">🚀 DevOps Toolkit</h1>
+# 👋 Hi there, I'm Aya
 
-<p align="center">
-  Your gateway to modern DevOps tools and automation workflows using
-  <strong>Docker</strong>, <strong>Ansible</strong>, and <strong>Linux</strong>.
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/docker-library/docs/1f2e1b44f825ac77a2d12188de050e09261e29f1/docker/logo.png" alt="Docker" width="120"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/ansible.svg" alt="Ansible" width="90"/>
-  &nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" alt="Linux" width="100"/>
-</p>
+🎯 A passionate *DevOps Engineer* in training and future *System Administrator*.
 
 ---
 
-## 🧰 Tools Covered
+## 🚀 About Me
 
-| Tool     | Description                                                                 |
-|----------|-----------------------------------------------------------------------------|
-| 🐳 Docker   | Container platform for building, shipping, and running applications.     |
-| 🅰️ Ansible | IT automation tool for configuration management and orchestration.        |
-| 🐧 Linux    | Open-source OS that powers the majority of servers and cloud platforms.  |
+- 🎓 Cyber Security Associate graduate  
+- 💻 Currently training and building skills for a System Administrator role  
+- 🐧 Exploring the world of *Linux, Docker, Kubernetes, Ansible,* and **CI/CD pipelines**
+- 💡 Always curious to learn tools that boost automation, monitoring, and system reliability
 
 ---
 
-## 📂 Project Structure
+## 🧰 Tech Stack
 
-```bash
-.
-├── docker/     # Dockerfiles, Compose files, examples
-├── ansible/    # Playbooks, inventories, roles
-├── linux/      # Shell scripts, system configs, automation
-└── README.md   # This file
+- **Languages:** Bash, Python, YAML, a bit of Go  
+- **Tools & Platforms:** Docker, Kubernetes, Ansible, Jenkins, GitHub Actions  
+- **Operating Systems:** Linux (CentOS Stream 9), Ubuntu  
+- **Other Skills:** MySQL automation with Python, Flask app deployment, NGINX setup  
+- **Currently Learning:** Cloud basics (AWS), hardening Linux systems, and HCCD exam prep
+
+---
+
+## 📌 Projects & Goals
+
+- 🐬 GUI for managing MySQL with Python & Tkinter  
+- 🛠️ Monitoring and hardware usage scripts with OOP concepts  
+- ⚙️ Dockerized Flask apps + reverse proxy with NGINX  
+- ☁️ Getting cloud-ready with real-world labs and cert prep  
+
+---
+
+## 📫 Let's Connect
+
+- 💻 [GitHub](https://github.com/aya-63)
+- 📬 (Add your LinkedIn or contact here if you'd like)
+
+---
+
+## 💬 Fun Fact
+
+I like building things that break, so I can rebuild them better 😄  
+Always up for a challenge in the Linux terminal!
