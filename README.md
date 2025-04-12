@@ -52,7 +52,7 @@
 ## 🔗 Connect with Me
 
 - 💻 GitHub: [@aya-63](https://github.com/aya-63)
-- 🌐 LinkedIn: [LinkedIn](www.linkedin.com/in/aya-abdelaty)
+- 🌐 LinkedIn: [LinkedIn](https://www.linkedin.com/in/aya-abdelaty/)
 - 📬 Email: [Email](mailto:ayaabdelaty63@gmail.com)
 ---
 
