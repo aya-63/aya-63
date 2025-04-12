@@ -52,9 +52,8 @@
 ## 🔗 Connect with Me
 
 - 💻 GitHub: [@aya-63](https://github.com/aya-63)
-- 🌐 LinkedIn: (Add your LinkedIn link here)
-- 📬 Email: (Add your contact email here)
-
+- 🌐 LinkedIn: [LinkedIn](www.linkedin.com/in/aya-abdelaty)
+- 📬 Email: [Email](mailto:ayaabdelaty63@gmail.com)
 ---
 
 ⭐️ If you like this project or my profile, give it a star!  
