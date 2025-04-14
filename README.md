@@ -10,6 +10,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="90"/>
   &nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="Docker" width="100"/>
+  &nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/2109px-Kubernetes_logo_without_workmark.svg.png" alt="kubernetes" width="100"/>
 </p>
 
 ---
