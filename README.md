@@ -24,14 +24,16 @@
 
 ## 🧰 Tools Highlighted
 
-Tool | Description
-🐧 Linux | Open-source OS that powers servers, cloud infrastructure, and containers.
-🐳 Docker | Containerization platform for building, running, and shipping applications.
-🧑‍💻 Bash | Command-line interface for automating system tasks and scripting.
-⚙️ Ansible | Automate system configurations, software deployment, and infrastructure setup.
-🔐 Git | Version control system for managing and collaborating on code.
-🌍 Terraform | Infrastructure as Code (IaC) tool for provisioning and managing cloud resources.
-🛠️ Jenkins | Open-source automation server for continuous integration and continuous deployment (CI/CD).
+| Tool          | Description                                                                  |
+|---------------|------------------------------------------------------------------------------|
+| 🐧 Linux      | Open-source OS that powers servers, cloud infrastructure, and containers.     |
+| 🐳 Docker     | Containerization platform for building, running, and shipping applications.  |
+| 🧑‍💻 Bash     | Command-line interface for automating system tasks and scripting.            |
+| ⚙️ Ansible    | Automate system configurations, software deployment, and infrastructure setup.|
+| 🔐 Git        | Version control system for managing and collaborating on code.               |
+| 🌍 Terraform  | Infrastructure as Code (IaC) tool for provisioning and managing cloud resources.|
+| 🛠️ Jenkins    | Open-source automation server for continuous integration and continuous deployment (CI/CD).|
+
 
 ## 📈 GitHub Stats
 
