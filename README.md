@@ -1,4 +1,4 @@
-<h1 align="center">🚀 System Administrator Toolkit</h1>
+<h1 align="center">🚀 DevOps Engineer Toolkit</h1>
 
 <p align="center">
   Explore essential tools and workflows that power modern system administration, including <strong>Linux</strong>, <strong>Docker</strong>, and <strong>Automation</strong>.
@@ -15,7 +15,7 @@
    &nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Ansible_Logo.png" alt="Docker" width="100"/>
   &nbsp;&nbsp;
-  <img src="https://static-00.iconduck.com/assets.00/terraform-icon-1803x2048-hodrzd3t.png" alt="Terraform" width="100"/>
+  <img src="https://img.icons8.com/fluent/512/terraform.png" alt="Terraform" width="100"/>
     &nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" alt="Jenkins" width="100"/>
 </p>
